@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "nombre": "Training Shoes",
+        "descripcion": "This shoes are comfortable and made for sport lovers.",
+        "boton": "Add To Cart",
+        "imagenes": [
+            "images/01.png",
+            "images/02.png",
+            "images/03.png"
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Football Shoes",
+        "descripcion": "Professional football shoes.",
+        "boton": "Add To Cart",
+        "imagenes": [
+            "images/04.png",
+            "images/05.png",
+            "images/0.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Football Shoes",
+        "descripcion": "Professional football shoes.",
+        "boton": "Add To Cart",
+        "imagenes": [
+            "images/04.png",
+            "images/05.png",
+            "images/0.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Football Shoes",
+        "descripcion": "Professional football shoes.",
+        "boton": "Add To Cart",
+        "imagenes": [
+            "images/04.png",
+            "images/05.png",
+            "images/0.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Football Shoes",
+        "descripcion": "Professional football shoes.",
+        "boton": "Add To Cart",
+        "imagenes": [
+            "images/04.png",
+            "images/05.png",
+            "images/0.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Football Shoes",
+        "descripcion": "Professional football shoes.",
+        "boton": "Add To Cart",
+        "imagenes": [
+            "images/04.png",
+            "images/05.png",
+            "images/0.jpg"
+        ]
+    }
+    
+]
